@@ -24,13 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots.desktop-view.png)
-![](./screenshots.mobile-view.png)
+Desktop view
+
+![](./screenshots/desktop-view.png)
+
+Mobile view
+
+![](./screenshots/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-OcXZTKu9rU)
+- Live Site URL: [Live site URL here](https://773881df.product-preview-card-component-75h.pages.dev/)
 
 ### Built with
 
